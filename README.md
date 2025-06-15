@@ -37,7 +37,7 @@ Bash
     ./gradlew bootRun
     
 
-4.  Посетите приложение: Откройте [http://localhost:8080](http://localhost:8080) в вашем браузере.
+4.  Посетите приложение: Откройте [http://localhost:5432](http://localhost:5432) в вашем браузере.
 
 Примечания:
 *   Требуется Java 17+.
