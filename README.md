@@ -65,7 +65,7 @@ spring-starter/
 
 ## 📄 Лицензия
 
-[MIT License](LICENSE)
+[GPL License](LICENSE)
 
 ## ✉️ Контакты
 
